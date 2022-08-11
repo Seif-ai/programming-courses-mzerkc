@@ -7,4 +7,4 @@ let seif2 number;
 seif1 = 100;
 seif2 = 300;
 
-console.log(seif1);
+console.log('seif1');
